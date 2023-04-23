@@ -1,0 +1,105 @@
+{
+  "Backlog": [
+    {
+      "id": 18,
+      "name": "Login page – performance issues",
+      "description": "Write something"
+    },
+    {
+      "id": 17,
+      "name": "Sprint bugfix",
+      "description": "Write something"
+    }
+  ],
+  "Ready": [
+    {
+      "id": 16,
+      "name": "Shop page – performance issues",
+      "description": "Write something"
+    },
+    {
+      "id": 15,
+      "name": "Checkout bugfix",
+      "description": "Write something"
+    },
+    {
+      "id": 14,
+      "name": "Shop bug1",
+      "description": "Write something"
+    },
+    {
+      "id": 13,
+      "name": "Shop bug2",
+      "description": "Write something"
+    },
+    {
+      "id": 12,
+      "name": "Shop bug3",
+      "description": "Write something"
+    },
+    {
+      "id": 11,
+      "name": "Shop bug4",
+      "description": "Write something"
+    },
+    {
+      "id": 10,
+      "name": "Shop bug5",
+      "description": "Write something"
+    },
+    {
+      "id": 9,
+      "name": "Shop bug6",
+      "description": "Write something"
+    },
+    {
+      "id": 8,
+      "name": "Shop bug7",
+      "description": "Write something"
+    },
+    {
+      "id": 7,
+      "name": "Shop bug8",
+      "description": "Write something"
+    },
+    {
+      "id": 6,
+      "name": "Shop bug9",
+      "description": "Write something"
+    },
+    {
+      "id": 5,
+      "name": "Shop bug10",
+      "description": "Write something"
+    },
+    {
+      "id": 4,
+      "name": "Shop page – performance issues",
+      "description": "Write something"
+    }
+  ],
+  "In Progress": [
+    {
+      "id": 3,
+      "name": "User page – performance issues",
+      "description": "Write something"
+    },
+    {
+      "id": 2,
+      "name": "Auth bugfix",
+      "description": "Write something"
+    }
+  ],
+  "Finished": [
+    {
+      "id": 1,
+      "name": "Main page – performance issues",
+      "description": "Write something"
+    },
+    {
+      "id": 0,
+      "name": "Main page bugfix",
+      "description": "Write something"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 import React from "react";
 
 function Footer(props) {
-  const user = "Rouslan";
+  const user = "Demoscou";
   const date = new Date();
   
 
